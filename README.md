@@ -2,7 +2,7 @@
 ### Back End Java Software Developer
 
 
-####I´m a Software Developer graduared from the National Technological University (UTN in Spanish) in Argentina.
+###I´m a Software Developer graduared from the National Technological University (UTN in Spanish) in Argentina.
 
 🔭 I have been working in personal projects since 2020 and now I´m looking to work in a company to develop projects with social impact.
 
