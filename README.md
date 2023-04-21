@@ -1,9 +1,9 @@
 # Hi! My name is Javier Martinez Verneri 👋
 ### Back End Java Software Developer
 
-<p align="center">
-<img width="460" height="300" src=https://raw.githubusercontent.com/jmverneri/jmverneri/master/profileImage.jpg"/>
- </p>
+
+![https://github.com/mouredev](https://raw.githubusercontent.com/jmverneri/jmverneri/master/profileImage.jpg")
+ 
 
 I´m a Software Developer graduared from the National Technological University (UTN in Spanish) in Argentina.
 
