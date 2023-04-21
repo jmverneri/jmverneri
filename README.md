@@ -1,7 +1,6 @@
 # Hi! My name is Javier Martinez Verneri 👋
 ### Back End Java Software Developer
 
-
 ![https://github.com/jmverneri](https://raw.githubusercontent.com/jmverneri/jmverneri/master/profileImage.jpg")
  
 
