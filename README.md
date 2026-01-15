@@ -11,8 +11,6 @@ I´m a Software Developer graduared from the National Technological University (
 🌱 I´m currently training in Java, CSS and HTML5.  
 
 📫 We can get in touch in:
-- jamartinezverneri@gmail.com
-or
 - DM: https://www.linkedin.com/in/javier-martinez-verneri/
 
 ## Technologies
